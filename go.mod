@@ -1,4 +1,4 @@
-module github.com/streamingfast/solana-go
+module github.com/stonecoldik/solana-go
 
 go 1.15
 
