@@ -32,7 +32,7 @@ func init() {
 
 	// register embeddedBox
 	embedded.RegisterEmbeddedBox(`data`, &embedded.EmbeddedBox{
-		Name: `data`,
+		Name: `data1`,
 		Time: time.Unix(1606332268, 0),
 		Dirs: map[string]*embedded.EmbeddedDir{
 			"": dir1,
